@@ -1,0 +1,30 @@
+URL = https://demoqa.com/
+F = //h5[text()='Forms']
+PF = //span[text()='Practice Form']
+FN = Suresh
+LN = Koyyala
+EM = suresh.koyyala89@gmail.com
+MN = 6301653861
+SUB = Computer science, English
+CA = KPHB, Hyderabad 500072
+
+
+##### Login Data
+XFN = //input[@id='firstName']
+XLN = //input[@id='lastName']
+XEM = //input[@id='userEmail']
+XGR = //input[@id='gender-radio-1']
+XMN = //input[@id='userNumber']
+XDOB = //input[@id='dateOfBirthInput']
+XBY = //option[@value='2002']
+XBM = //option[@value='2']
+XBD = //div[@class='react-datepicker__day react-datepicker__day--026']
+XSUB = //input[@id='subjectsInput']
+XHB = //input[@id='hobbies-checkbox-3']
+XUP = //input[@id='uploadPicture']
+XCA = //textarea[@id='currentAddress']
+XST = //div[@class=' css-yk16xz-control']
+XSC = //div[@class=' css-1wa3eu0-placeholder']
+XSM = //button[@id='submit']
+XTB = //div[@class='modal-dialog modal-lg']
+XTB = //table[@class='table table-dark table-striped table-bordered table-hover']
